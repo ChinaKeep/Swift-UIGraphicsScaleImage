@@ -1,1 +1,2 @@
 # MyRepository
+利用Swift进行通过图形上下文进行图片的缩放
